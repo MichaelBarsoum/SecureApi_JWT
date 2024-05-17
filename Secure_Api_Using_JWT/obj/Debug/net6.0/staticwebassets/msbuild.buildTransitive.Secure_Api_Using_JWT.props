@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Secure_Api_Using_JWT.props" />
+</Project>
